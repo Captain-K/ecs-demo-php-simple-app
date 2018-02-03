@@ -24,9 +24,8 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
-
+                <p>changed source is push and auto deployment is finished!!!</p>
             </div>
-            <h2>source commited!!!</h2>
         </div>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
